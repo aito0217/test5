@@ -4,5 +4,5 @@ using namespace std;
 
 int main()
 {
-	"Šâ‰i@–Ò";
+	"™‰º—Fˆê";
 }
